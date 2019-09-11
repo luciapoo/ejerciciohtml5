@@ -1,7 +1,7 @@
 body{
 	background: url('images/fondo.jpg')no-repeat center center fixed;
-	color:#ffffee;
-	font-family:sans-serif;
+	color:0;
+	font-family:'Quicksand', sans-serif;
 	margin: 0;
 	padding: 0;
 	text-align: justify;
